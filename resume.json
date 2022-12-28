@@ -1,0 +1,165 @@
+{
+  "selectedTemplate": 4,
+  "headings": {
+    "work": "",
+    "education": "",
+    "projects": "",
+    "awards": "Activities",
+    "skills": ""
+  },
+  "basics": {
+    "name": "Deyby Rodriguez",
+    "email": "deybyr647@gmail.com",
+    "website": "www.deybyr647.com",
+    "location": {
+      "address": "New York, NY"
+    },
+    "phone": "(631) 740-2990"
+  },
+  "education": [
+    {
+      "institution": "New York Institute of Technology",
+      "location": "New York, NY",
+      "area": "Computer Science",
+      "startDate": "Sep 2021",
+      "endDate": "May 2025",
+      "studyType": "BS"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Support development of internal curriculums in Web Development and iOS Development with Swift.",
+        "Provide one on one coaching to students on programming projects and career preparation.",
+        "Assist with providing maintenance to the classroom space and the technology within."
+      ],
+      "company": "Google",
+      "position": "Code Next Site Coordinator Intern",
+      "location": "New York, NY",
+      "startDate": "November 2022",
+      "endDate": "Present"
+    },
+    {
+      "company": "All Star Code",
+      "location": "New York, NY",
+      "position": "Teaching Assistant",
+      "startDate": "June 2022",
+      "highlights": [
+        "Assisted instructional team in the delivery of a web development curriculum to 40+ high school students.",
+        "Led instruction of curriculum modules at least 3 times per week.",
+        "Led office hours, where I assisted students with reviewing topics covered in class and with their projects."
+      ],
+      "endDate": "August 2022"
+    },
+    {
+      "highlights": [
+        "Participated in the delivery of a computer science fundamentals curriculum to 30+ high school students at The Renaissance Charter School.",
+        "Introduced students to creative coding and hardware programming with Python.",
+        "Managed classroom logistics, such as attendance and grading."
+      ],
+      "company": "Emerging Leaders in Technology and Engineering, Inc.",
+      "position": "STEM Fellow",
+      "location": "New York, NY",
+      "startDate": "October 2021",
+      "endDate": "January 2022"
+    },
+    {
+      "highlights": [
+        "Assisted instructional team in the delivery of a web development curriculum to 40+ high school students.",
+        "Managed virtual classroom logistics, such as attendance and grading of student projects.",
+        "Designed and delivered a lesson on the basics of React, which became a part of the All Star Code Resource Library."
+      ],
+      "company": "All Star Code",
+      "position": "Teaching Fellow",
+      "location": "New York, NY",
+      "startDate": "June 2021",
+      "endDate": "August 2021"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "TypeScript",
+        "JavaScript (ES6+)",
+        "Java",
+        "Python"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "React",
+        "Bootstrap",
+        "Responsive Web Design",
+        "SCSS",
+        "HTML/CSS"
+      ],
+      "name": "Front-End Web Development"
+    },
+    {
+      "keywords": [
+        "Next.js",
+        "Node.js",
+        "Firebase",
+        "Vercel",
+        "REST APIs"
+      ],
+      "name": "Back-End Web Development"
+    },
+    {
+      "keywords": [
+        "Computer Science Education",
+        "Curriculum Design",
+        "Technical Support"
+      ],
+      "name": "Education"
+    }
+  ],
+  "projects": [
+    {
+      "name": "RecycleIT",
+      "url": "https://recycleit.deybyr647.com",
+      "keywords": [
+        "TypeScript",
+        "Next.js",
+        "Bootstrap",
+        "Google Maps SDK"
+      ],
+      "description": "RecycleIT is a website that aids users in finding nearby recycling centers using their postal code or precise location, and aims to educate users about the basics of recycling."
+    },
+    {
+      "keywords": [
+        "TypeScript",
+        "Next.js",
+        "Vercel"
+      ],
+      "description": "A small project I made for testing API endpoints and for bypassing CORS related errors in local development.",
+      "name": "NextJS CORS Anywhere",
+      "url": "https://nextjs-cors-anywhere.vercel.app/"
+    }
+  ],
+  "awards": [
+    {
+      "date": "October 2022",
+      "title": "Participant",
+      "summary": "Led back-end development of \"Sisyphus\", a web app designed to serve as a habit tracker and diary.",
+      "awarder": "HackMIT at Massachusetts Institute of Technology"
+    },
+    {
+      "title": "Participant",
+      "date": "August 2022",
+      "awarder": "Capital One Software Engineering Summit",
+      "summary": "Attended workshops where I learned new technologies like PostgreSQL, Kotlin, and Express.js. Participated in a hackathon where I led back-end development of \"Capital Fun\", a site designed to gamify banking."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
