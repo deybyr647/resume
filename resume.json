@@ -47,7 +47,7 @@
       "highlights": [
         "Assisted instructional team in the delivery of a web development curriculum to 40+ high school students.",
         "Led instruction of curriculum modules at least 3 times per week.",
-        "Led office hours, where I assisted students with reviewing topics covered in class and with their projects."
+        "Hosted office hours for students to assist them with coding concepts and projects covered in class."
       ],
       "endDate": "August 2022"
     },
@@ -57,7 +57,7 @@
         "Introduced students to creative coding and hardware programming with Python.",
         "Managed classroom logistics, such as attendance and grading."
       ],
-      "company": "Emerging Leaders in Technology and Engineering, Inc.",
+      "company": "Emerging Leaders in Technology and Engineering",
       "position": "STEM Fellow",
       "location": "New York, NY",
       "startDate": "October 2021",
@@ -83,6 +83,7 @@
         "TypeScript",
         "JavaScript (ES6+)",
         "Java",
+        "Swift",
         "Python"
       ],
       "name": "Programming Languages"
@@ -134,7 +135,7 @@
         "Next.js",
         "Vercel"
       ],
-      "description": "A small project I made for testing API endpoints and for bypassing CORS related errors in local development.",
+      "description": "A simple site and proxy for visualizing JSON data from API endpoints and for bypassing CORS related errors.",
       "name": "NextJS CORS Anywhere",
       "url": "https://nextjs-cors-anywhere.vercel.app/"
     }
