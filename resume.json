@@ -1,5 +1,5 @@
 {
-  "selectedTemplate": 4,
+  "selectedTemplate": 1,
   "headings": {
     "work": "",
     "education": "",
@@ -21,20 +21,20 @@
       "institution": "New York Institute of Technology",
       "location": "New York, NY",
       "area": "Computer Science",
-      "startDate": "Sep 2021",
+      "startDate": "September 2021",
       "endDate": "May 2025",
-      "studyType": "BS"
+      "studyType": "B.S."
     }
   ],
   "work": [
     {
       "highlights": [
-        "Support development of internal curriculums in Web Development and iOS Development with Swift.",
+        "Support development and delivery of internal curriculums in Web Development and iOS Development with Swift.",
         "Provide one on one coaching to students on programming projects and career preparation.",
         "Assist with providing maintenance to the classroom space and the technology within."
       ],
       "company": "Google",
-      "position": "Code Next Site Coordinator Intern",
+      "position": "Code Next Intern Coach",
       "location": "New York, NY",
       "startDate": "November 2022",
       "endDate": "Present"
@@ -58,7 +58,7 @@
         "Managed classroom logistics, such as attendance and grading."
       ],
       "company": "Emerging Leaders in Technology and Engineering",
-      "position": "STEM Fellow",
+      "position": "Teaching Fellow",
       "location": "New York, NY",
       "startDate": "October 2021",
       "endDate": "January 2022"
@@ -93,8 +93,8 @@
         "React",
         "Bootstrap",
         "Responsive Web Design",
-        "SCSS",
-        "HTML/CSS"
+        "Bulma",
+        "SCSS"
       ],
       "name": "Front-End Web Development"
     },
@@ -103,7 +103,7 @@
         "Next.js",
         "Node.js",
         "Firebase",
-        "Vercel",
+        "Vercel Serverless Functions",
         "REST APIs"
       ],
       "name": "Back-End Web Development"
@@ -112,12 +112,23 @@
       "keywords": [
         "Computer Science Education",
         "Curriculum Design",
-        "Technical Support"
+        "Career Coaching"
       ],
       "name": "Education"
     }
   ],
   "projects": [
+    {
+      "name": "ExplainThis",
+      "url": "https://explain-this-rosy.vercel.app/",
+      "keywords": [
+        "TypeScript",
+        "Next.js",
+        "Bootstrap",
+        "OpenAI APIs"
+      ],
+      "description": "A site which provides concise code snippet explanations using OpenAI's GPT 3.5 davinci text model."
+    },
     {
       "name": "RecycleIT",
       "url": "https://recycleit.deybyr647.com",
@@ -127,7 +138,7 @@
         "Bootstrap",
         "Google Maps SDK"
       ],
-      "description": "RecycleIT is a website that aids users in finding nearby recycling centers using their postal code or precise location, and aims to educate users about the basics of recycling."
+      "description": "A web app that aids users in finding nearby recycling centers using their postal code or precise location."
     },
     {
       "keywords": [
@@ -142,16 +153,22 @@
   ],
   "awards": [
     {
-      "date": "October 2022",
-      "title": "Participant",
-      "summary": "Led back-end development of \"Sisyphus\", a web app designed to serve as a habit tracker and diary.",
-      "awarder": "HackMIT at Massachusetts Institute of Technology"
+      "title": "Palantir Launch",
+      "date": "March 2023",
+      "awarder": "Palantir Technologies",
+      "summary": "Participated in various technical workshops and received career mentorship from Palantir engineers. Developed a project on Palantir's Foundry platform using various datasets."
     },
     {
-      "title": "Participant",
+      "date": "October 2022",
+      "title": "HackMIT",
+      "summary": "Led back-end development of \"Sisyphus\", a web app designed to serve as a habit tracker and diary, developed with React and Electron.js",
+      "awarder": "Massachusetts Institute of Technology"
+    },
+    {
+      "title": "Software Engineering Summit",
       "date": "August 2022",
-      "awarder": "Capital One Software Engineering Summit",
-      "summary": "Attended workshops where I learned new technologies like PostgreSQL, Kotlin, and Express.js. Participated in a hackathon where I led back-end development of \"Capital Fun\", a site designed to gamify banking."
+      "awarder": "Capital One",
+      "summary": "Learned new technologies within various workshops led by Capital One engineers and directed back-end development of a gamified banking site within a hackathon."
     }
   ],
   "sections": [
