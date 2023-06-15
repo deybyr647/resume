@@ -18,26 +18,26 @@
   },
   "education": [
     {
-      "institution": "New York Institute of Technology",
       "location": "New York, NY",
       "area": "Computer Science",
-      "startDate": "September 2021",
-      "endDate": "May 2025",
-      "studyType": "B.S."
+      "studyType": "B.A.",
+      "institution": "CUNY Hunter College",
+      "startDate": "Expected Graduation",
+      "endDate": "May 2025"
     }
   ],
   "work": [
     {
       "highlights": [
-        "Support development and delivery of internal curriculums in Web Development and iOS Development with Swift.",
-        "Provide one on one coaching to students on programming projects and career preparation.",
-        "Assist with providing maintenance to the classroom space and the technology within."
+        "Enhanced the development and delivery of diverse internal curricula, focusing primarily on Web Development, iOS Development, and React.js, catering to 50+ high school students.",
+        "Delivered personalized one-on-one coaching to students on programming projects and career preparation.",
+        "Assisted with providing maintenance to the classroom space and the technology within."
       ],
       "company": "Google",
-      "position": "Code Next Intern Coach",
+      "position": "Code Next Coach",
       "location": "New York, NY",
       "startDate": "November 2022",
-      "endDate": "Present"
+      "endDate": "June 2023"
     },
     {
       "company": "All Star Code",
