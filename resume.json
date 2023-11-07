@@ -10,11 +10,11 @@
   "basics": {
     "name": "Deyby Rodriguez",
     "email": "deybyr647@gmail.com",
-    "website": "www.deybyr647.com",
+    "website": "www.deybyrodriguez.com",
     "location": {
       "address": "New York, NY"
     },
-    "phone": "(631) 740-2990"
+    "phone": "(929) 651-7606"
   },
   "education": [
     {
@@ -27,6 +27,18 @@
     }
   ],
   "work": [
+    {
+      "highlights": [
+        "Collaborated with senior engineers in development of internal Python-based REST APIs.",
+        "Aided in agile development of automated incident handling system, saving over 350 manual hours yearly.",
+        "Engaged in a diverse range of educational and networking workshops facilitated by senior level staff, including C-level executives."
+      ],
+      "company": "Prudential Financial",
+      "position": "Intern Software Engineer",
+      "location": "Newark, NJ",
+      "startDate": "June 2023",
+      "endDate": "August 2023"
+    },
     {
       "highlights": [
         "Enhanced the development and delivery of diverse internal curricula, focusing primarily on Web Development, iOS Development, and React.js, catering to 50+ high school students.",
@@ -62,18 +74,6 @@
       "location": "New York, NY",
       "startDate": "October 2021",
       "endDate": "January 2022"
-    },
-    {
-      "highlights": [
-        "Assisted instructional team in the delivery of a web development curriculum to 40+ high school students.",
-        "Managed virtual classroom logistics, such as attendance and grading of student projects.",
-        "Designed and delivered a lesson on the basics of React, which became a part of the All Star Code Resource Library."
-      ],
-      "company": "All Star Code",
-      "position": "Teaching Fellow",
-      "location": "New York, NY",
-      "startDate": "June 2021",
-      "endDate": "August 2021"
     }
   ],
   "skills": [
@@ -82,9 +82,9 @@
       "keywords": [
         "TypeScript",
         "JavaScript (ES6+)",
+        "Python",
         "Java",
-        "Swift",
-        "Python"
+        "Swift"
       ],
       "name": "Programming Languages"
     },
@@ -103,8 +103,10 @@
         "Next.js",
         "Node.js",
         "Firebase",
-        "Vercel Serverless Functions",
-        "REST APIs"
+        "Vercel",
+        "REST APIs",
+        "MongoDB",
+        "AWS Lambda"
       ],
       "name": "Back-End Web Development"
     },
@@ -112,9 +114,10 @@
       "keywords": [
         "Computer Science Education",
         "Curriculum Design",
-        "Career Coaching"
+        "Career Coaching",
+        "Agile"
       ],
-      "name": "Education"
+      "name": "Miscellaneous"
     }
   ],
   "projects": [
