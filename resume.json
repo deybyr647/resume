@@ -29,6 +29,18 @@
   "work": [
     {
       "highlights": [
+        "Provide customer service by assisting residents with inquiries, concerns, and requests at the front desk, creating a welcoming and supportive environment.",
+        "Conduct regular rounds to monitor the residence halls, ensuring compliance with housing policies.",
+        "Perform logging, organization and distribution of incoming mail and packages for residents."
+      ],
+      "company": "FOUND Study",
+      "position": "Resident Assistant",
+      "location": "New York, NY",
+      "startDate": "August 2023",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
         "Collaborated with senior engineers in development of internal Python-based REST APIs.",
         "Aided in agile development of automated incident handling system, saving over 350 manual hours yearly.",
         "Engaged in a diverse range of educational and networking workshops facilitated by senior level staff, including C-level executives."
@@ -62,18 +74,6 @@
         "Hosted office hours for students to assist them with coding concepts and projects covered in class."
       ],
       "endDate": "August 2022"
-    },
-    {
-      "highlights": [
-        "Participated in the delivery of a computer science fundamentals curriculum to 30+ high school students at The Renaissance Charter School.",
-        "Introduced students to creative coding and hardware programming with Python.",
-        "Managed classroom logistics, such as attendance and grading."
-      ],
-      "company": "Emerging Leaders in Technology and Engineering",
-      "position": "Teaching Fellow",
-      "location": "New York, NY",
-      "startDate": "October 2021",
-      "endDate": "January 2022"
     }
   ],
   "skills": [
@@ -113,8 +113,8 @@
     {
       "keywords": [
         "Computer Science Education",
-        "Curriculum Design",
         "Career Coaching",
+        "Hotel Management",
         "Agile"
       ],
       "name": "Miscellaneous"
