@@ -23,7 +23,7 @@
       "studyType": "B.A.",
       "institution": "CUNY Hunter College",
       "startDate": "Expected Graduation",
-      "endDate": "May 2025"
+      "endDate": "December 2025"
     }
   ],
   "work": [
@@ -41,6 +41,18 @@
     },
     {
       "highlights": [
+        "Developed Python workflows to automate data aggregation from multiple sources, reducing manual effort and improving efficiency to support a ransomware-resilient software currency program.",
+        "Designed a granular analytics methodology that correlates device type, hostname, and agent version, providing actionable insights on over 30,000 corporate devices to enhance remediation strategies and improve endpoint security",
+        "Advanced future integration efforts by centralizing scripts and developing REST APIs for seamless data access via Microsoft Defender and PowerBI."
+      ],
+      "company": "Prudential Financial",
+      "position": "Intern Software Engineer",
+      "location": "Newark, NJ",
+      "startDate": "June 2024",
+      "endDate": "August 2024"
+    },
+    {
+      "highlights": [
         "Collaborated with senior engineers in development of internal Python-based REST APIs.",
         "Aided in agile development of automated incident handling system, saving over 350 manual hours yearly.",
         "Engaged in a diverse range of educational and networking workshops facilitated by senior level staff, including C-level executives."
@@ -53,7 +65,7 @@
     },
     {
       "highlights": [
-        "Enhanced the development and delivery of diverse internal curricula, focusing primarily on Web Development, iOS Development, and React.js, catering to 50+ high school students.",
+        "Enhanced the development and delivery of diverse internal curricula, focusing primarily on Web Development, iOS Development, and React.js, catering to over 50 high school students.",
         "Delivered personalized one-on-one coaching to students on programming projects and career preparation.",
         "Assisted with providing maintenance to the classroom space and the technology within."
       ],
@@ -62,18 +74,6 @@
       "location": "New York, NY",
       "startDate": "November 2022",
       "endDate": "June 2023"
-    },
-    {
-      "company": "All Star Code",
-      "location": "New York, NY",
-      "position": "Teaching Assistant",
-      "startDate": "June 2022",
-      "highlights": [
-        "Assisted instructional team in the delivery of a web development curriculum to 40+ high school students.",
-        "Led instruction of curriculum modules at least 3 times per week.",
-        "Hosted office hours for students to assist them with coding concepts and projects covered in class."
-      ],
-      "endDate": "August 2022"
     }
   ],
   "skills": [
@@ -82,9 +82,8 @@
       "keywords": [
         "TypeScript",
         "JavaScript (ES6+)",
-        "Python",
         "Java",
-        "Swift"
+        "Python"
       ],
       "name": "Programming Languages"
     },
@@ -96,7 +95,7 @@
         "Bulma",
         "SCSS"
       ],
-      "name": "Front-End Web Development"
+      "name": "Front-End Development"
     },
     {
       "keywords": [
@@ -108,14 +107,13 @@
         "MongoDB",
         "AWS Lambda"
       ],
-      "name": "Back-End Web Development"
+      "name": "Back-End Development"
     },
     {
       "keywords": [
         "Computer Science Education",
         "Career Coaching",
-        "Hotel Management",
-        "Agile"
+        "Property Management"
       ],
       "name": "Miscellaneous"
     }
@@ -142,16 +140,6 @@
         "Google Maps SDK"
       ],
       "description": "A web app that aids users in finding nearby recycling centers using their postal code or precise location."
-    },
-    {
-      "keywords": [
-        "TypeScript",
-        "Next.js",
-        "Vercel"
-      ],
-      "description": "A simple site and proxy for visualizing JSON data from API endpoints and for bypassing CORS related errors.",
-      "name": "NextJS CORS Anywhere",
-      "url": "https://nextjs-cors-anywhere.vercel.app/"
     }
   ],
   "awards": [
@@ -166,12 +154,6 @@
       "title": "HackMIT",
       "summary": "Led back-end development of \"Sisyphus\", a web app designed to serve as a habit tracker and diary, developed with React and Electron.js",
       "awarder": "Massachusetts Institute of Technology"
-    },
-    {
-      "title": "Software Engineering Summit",
-      "date": "August 2022",
-      "awarder": "Capital One",
-      "summary": "Learned new technologies within various workshops led by Capital One engineers and directed back-end development of a gamified banking site within a hackathon."
     }
   ],
   "sections": [
