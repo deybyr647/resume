@@ -29,20 +29,20 @@
   "work": [
     {
       "highlights": [
-        "Provide customer service by assisting residents with inquiries, concerns, and requests at the front desk, creating a welcoming and supportive environment.",
-        "Conduct regular rounds to monitor the residence halls, ensuring compliance with housing policies.",
-        "Perform logging, organization and distribution of incoming mail and packages for residents."
+        "Designed and implemented data transformation from internal platforms into client facing proposal documents using Java and Spring Boot.",
+        "Combined underwriting web components to be hosted in a single application server, reducing costs by 66% using React, NodeJS, and Nginx.",
+        "Created and maintained CI/CD pipelines and Infrastructure as Code to build and deploy apps in AWS Cloud."
       ],
-      "company": "FOUND Study",
-      "position": "Resident Assistant",
-      "location": "New York, NY",
-      "startDate": "August 2023",
-      "endDate": "Present"
+      "company": "Prudential Financial",
+      "position": "Intern Software Engineer",
+      "location": "Newark, NJ",
+      "startDate": "June 2025",
+      "endDate": "August 2025"
     },
     {
       "highlights": [
         "Developed Python workflows to automate data aggregation from multiple sources, reducing manual effort and improving efficiency to support a ransomware-resilient software currency program.",
-        "Designed a granular analytics methodology that correlates device type, hostname, and agent version, providing actionable insights on over 30,000 corporate devices to enhance remediation strategies and improve endpoint security",
+        "Designed a granular analytics methodology that correlates device type, hostname, and agent version, providing actionable insights on over 30,000 corporate devices to enhance remediation strategies and improve endpoint security.",
         "Advanced future integration efforts by centralizing scripts and developing REST APIs for seamless data access via Microsoft Defender and PowerBI."
       ],
       "company": "Prudential Financial",
@@ -82,8 +82,9 @@
       "keywords": [
         "TypeScript",
         "JavaScript (ES6+)",
+        "Python",
         "Java",
-        "Python"
+        "Swift"
       ],
       "name": "Programming Languages"
     },
@@ -95,7 +96,7 @@
         "Bulma",
         "SCSS"
       ],
-      "name": "Front-End Development"
+      "name": "Front-End Web Development"
     },
     {
       "keywords": [
@@ -107,13 +108,14 @@
         "MongoDB",
         "AWS Lambda"
       ],
-      "name": "Back-End Development"
+      "name": "Back-End Web Development"
     },
     {
       "keywords": [
         "Computer Science Education",
         "Career Coaching",
-        "Property Management"
+        "Hotel Management",
+        "Agile"
       ],
       "name": "Miscellaneous"
     }
@@ -122,23 +124,13 @@
     {
       "name": "ExplainThis",
       "url": "https://explain-this-rosy.vercel.app/",
-      "keywords": [
-        "TypeScript",
-        "Next.js",
-        "Bootstrap",
-        "OpenAI APIs"
-      ],
+      "keywords": ["TypeScript", "Next.js", "Bootstrap", "OpenAI APIs"],
       "description": "A site which provides concise code snippet explanations using OpenAI's GPT 3.5 davinci text model."
     },
     {
       "name": "RecycleIT",
       "url": "https://recycleit.deybyr647.com",
-      "keywords": [
-        "TypeScript",
-        "Next.js",
-        "Bootstrap",
-        "Google Maps SDK"
-      ],
+      "keywords": ["TypeScript", "Next.js", "Bootstrap", "Google Maps SDK"],
       "description": "A web app that aids users in finding nearby recycling centers using their postal code or precise location."
     }
   ],
@@ -152,7 +144,7 @@
     {
       "date": "October 2022",
       "title": "HackMIT",
-      "summary": "Led back-end development of \"Sisyphus\", a web app designed to serve as a habit tracker and diary, developed with React and Electron.js",
+      "summary": "Led back-end development of \"Sisyphus\", a web app designed to serve as a habit tracker and diary, developed with React and Electron.js.",
       "awarder": "Massachusetts Institute of Technology"
     }
   ],
