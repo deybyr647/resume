@@ -1,0 +1,171 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "work": "",
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Deyby Rodriguez",
+    "email": "deybyr647@gmail.com",
+    "phone": "(929) 651-7606",
+    "website": "www.deybyrodriguez.com",
+    "location": {
+      "address": "New York, NY"
+    }
+  },
+  "education": [
+    {
+      "institution": "CUNY Hunter College",
+      "location": "New York, NY",
+      "area": "Computer Science",
+      "studyType": "BA",
+      "endDate": "December 2025",
+      "gpa": "",
+      "startDate": "Expected Graduation "
+    }
+  ],
+  "work": [
+    {
+      "company": "FOUND Study",
+      "location": "New York, NY",
+      "position": "Resident Assistant - Chelsea",
+      "website": "",
+      "endDate": "August 2025",
+      "highlights": [
+        "Worked directly with property managers to address inquiries for over 300 residents, coordinate unit maintenance, and resolve housing-related concerns.",
+        "Assisted in tracking, reporting, and following up on maintenance requests to ensure timely completion and resident satisfaction.",
+        "Supported front desk operations by handling inquiries, check-ins, and administrative tasks with professionalism and efficiency."
+      ],
+      "startDate": "September 2024"
+    },
+    {
+      "highlights": [
+        "Provide customer service by assisting over 1500 residents with inquiries, concerns, and requests at the front desk, creating a welcoming and supportive environment.",
+        "Conducted regular rounds to monitor the residence halls, ensuring compliance with housing policies.",
+        "Performed logging, organization and distribution of incoming mail and packages for residents."
+      ],
+      "company": "FOUND Study",
+      "position": "Resident Assistant - Turtle Bay",
+      "location": "New York, NY",
+      "startDate": "August 2023",
+      "endDate": "September 2024"
+    },
+    {
+      "highlights": [
+        "Assisted in the delivery of curriculums in React, Deep Learning and Full-Stack Web Development and Python to over 50 high school students.",
+        "Provided personalized advising to students on projects, programming concepts, technical career preparation and interviews.",
+        "Supported development of internal curriculums in iOS Development with Swift for future use."
+      ],
+      "company": "Google",
+      "position": "Code Next Coach",
+      "location": "New York, NY",
+      "startDate": "November 2022",
+      "endDate": "June 2023"
+    },
+    {
+      "highlights": [
+        "Assisted instructional team in the delivery of a web development curriculum to over 40 high school students.",
+        "Led instruction of curriculum modules at least 3 times per week.",
+        "Led office hours, where I assisted students with reviewing topics covered in class and with their projects."
+      ],
+      "company": "All Star Code",
+      "position": "Teaching Assistant",
+      "location": "New York, NY",
+      "startDate": "June 2022",
+      "endDate": "August 2022"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Customer Service",
+      "level": "",
+      "keywords": [
+        "Front Desk Operations",
+        "Customer Support",
+        "Resident Relations"
+      ]
+    },
+    {
+      "keywords": [
+        "Lesson Facilitation",
+        "Curriculum Development",
+        "Student Advising"
+      ],
+      "name": "Computer Science Education"
+    },
+    {
+      "keywords": [
+        "Package Management",
+        "Maintenance Tracking",
+        "Classroom Logistics"
+      ],
+      "name": "Operations"
+    },
+    {
+      "keywords": [
+        "Microsoft Office Suite",
+        "Google Workspace",
+        "Canva"
+      ],
+      "name": "General"
+    },
+    {
+      "keywords": [
+        "StarRez",
+        "Dormakaba",
+        "CloudBadging",
+        "Notifii"
+      ],
+      "name": "Resident Management"
+    },
+    {
+      "keywords": [
+        "JavaScript",
+        "Java",
+        "Python",
+        "HTML/CSS",
+        "GitHub",
+        "MongoDB",
+        "Firebase",
+        "React",
+        "Node.js"
+      ],
+      "name": "Software Development"
+    },
+    {
+      "keywords": [
+        "English (Native Proficiency)",
+        "Spanish (Native Proficiency)"
+      ],
+      "name": "Languages"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
