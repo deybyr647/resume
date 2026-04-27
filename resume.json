@@ -4,7 +4,6 @@
     "work": "",
     "education": "",
     "projects": "",
-    "awards": "Activities",
     "skills": ""
   },
   "basics": {
@@ -22,8 +21,8 @@
       "area": "Computer Science",
       "studyType": "B.A.",
       "institution": "CUNY Hunter College",
-      "startDate": "Expected Graduation",
-      "endDate": "December 2025"
+      "endDate": "May 2026",
+      "startDate": "August 2023"
     }
   ],
   "work": [
@@ -83,8 +82,7 @@
         "TypeScript",
         "JavaScript (ES6+)",
         "Python",
-        "Java",
-        "Swift"
+        "Java"
       ],
       "name": "Programming Languages"
     },
@@ -92,9 +90,10 @@
       "keywords": [
         "React",
         "Bootstrap",
-        "Responsive Web Design",
+        "Tailwind",
         "Bulma",
-        "SCSS"
+        "SCSS",
+        "Responsive Web Design"
       ],
       "name": "Front-End Web Development"
     },
@@ -104,55 +103,73 @@
         "Node.js",
         "Firebase",
         "Vercel",
-        "REST APIs",
+        "Spring Boot",
         "MongoDB",
-        "AWS Lambda"
+        "REST API Design"
       ],
       "name": "Back-End Web Development"
     },
     {
       "keywords": [
-        "Computer Science Education",
-        "Career Coaching",
-        "Hotel Management",
-        "Agile"
+        "Student Advising",
+        "Curriculum Design",
+        "Lesson Facilitation"
+      ],
+      "name": "Computer Science Education"
+    },
+    {
+      "keywords": [
+        "Microsoft Office Suite",
+        "Google Workspace",
+        "Canva",
+        "Figma"
       ],
       "name": "Miscellaneous"
     }
   ],
   "projects": [
     {
+      "keywords": [
+        "React Native",
+        "Spring Boot",
+        "TypeScript",
+        "Java"
+      ],
+      "name": "Hunter-Connect",
+      "url": "https://hunter-connect.deybyr647.com",
+      "description": "Cross-platform, school centric social media platform design to connect students with class specific resources."
+    },
+    {
       "name": "ExplainThis",
-      "url": "https://explain-this-rosy.vercel.app/",
-      "keywords": ["TypeScript", "Next.js", "Bootstrap", "OpenAI APIs"],
-      "description": "A site which provides concise code snippet explanations using OpenAI's GPT 3.5 davinci text model."
+      "url": "https://explain-this.deybyr647.com",
+      "keywords": [
+        "Next.js",
+        "TypeScript",
+        "Bootstrap",
+        "OpenAI APIs"
+      ],
+      "description": "Website which provides concise code snippet explanations using OpenAI's GPT 3.5 davinci text model."
     },
     {
       "name": "RecycleIT",
       "url": "https://recycleit.deybyr647.com",
-      "keywords": ["TypeScript", "Next.js", "Bootstrap", "Google Maps SDK"],
-      "description": "A web app that aids users in finding nearby recycling centers using their postal code or precise location."
+      "keywords": [
+        "Next.js",
+        "TypeScript",
+        "Bootstrap",
+        "Google Maps SDK"
+      ],
+      "description": "Web app that aids users in finding nearby recycling centers using their postal code or precise location."
     }
   ],
   "awards": [
-    {
-      "title": "Palantir Launch",
-      "date": "March 2023",
-      "awarder": "Palantir Technologies",
-      "summary": "Participated in various technical workshops and received career mentorship from Palantir engineers. Developed a project on Palantir's Foundry platform using various datasets."
-    },
-    {
-      "date": "October 2022",
-      "title": "HackMIT",
-      "summary": "Led back-end development of \"Sisyphus\", a web app designed to serve as a habit tracker and diary, developed with React and Electron.js.",
-      "awarder": "Massachusetts Institute of Technology"
-    }
+    {}
   ],
   "sections": [
     "templates",
     "profile",
-    "education",
     "work",
+    "education",
     "skills",
     "projects",
     "awards"

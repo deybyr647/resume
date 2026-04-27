@@ -1,5 +1,5 @@
 {
-  "selectedTemplate": 2,
+  "selectedTemplate": 1,
   "headings": {
     "work": "",
     "projects": "",
@@ -9,7 +9,7 @@
     "name": "Deyby Rodriguez",
     "email": "deybyr647@gmail.com",
     "phone": "(929) 651-7606",
-    "website": "www.deybyrodriguez.com",
+    "website": "www.linkedin.com/in/deyby-rodriguez/",
     "location": {
       "address": "New York, NY"
     }
@@ -20,12 +20,31 @@
       "location": "New York, NY",
       "area": "Computer Science",
       "studyType": "BA",
-      "endDate": "December 2025",
+      "endDate": "May 2026",
       "gpa": "",
       "startDate": "Expected Graduation "
+    },
+    {
+      "institution": "Central Islip High School",
+      "location": "Central Islip, NY",
+      "startDate": "September 2017",
+      "endDate": "June 2021",
+      "studyType": "Advanced Regents Diploma"
     }
   ],
   "work": [
+    {
+      "highlights": [
+        "Facilitate client intake and outreach for over 500 prospective and current clients, managing calls and inquiries regarding tax filing services.",
+        "Collaborated directly with the firm’s CPA to streamline administrative workflows and ensure compliance with documentation requirements.",
+        "Maintain client portals and accounts through precise data entry and file management, ensuring records were up-to-date for the entire client base."
+      ],
+      "company": "212 Tax & Accounting Services",
+      "position": "Administrative Assistant",
+      "location": "New York, NY",
+      "startDate": "December 2025",
+      "endDate": "Present"
+    },
     {
       "company": "FOUND Study",
       "location": "New York, NY",
@@ -83,7 +102,7 @@
       "keywords": [
         "Front Desk Operations",
         "Customer Support",
-        "Resident Relations"
+        "Client Outreach"
       ]
     },
     {
@@ -121,10 +140,10 @@
     },
     {
       "keywords": [
-        "JavaScript",
+        "TypeScript",
         "Java",
         "Python",
-        "HTML/CSS",
+        "Spring Boot",
         "GitHub",
         "MongoDB",
         "Firebase",
@@ -132,6 +151,13 @@
         "Node.js"
       ],
       "name": "Software Development"
+    },
+    {
+      "keywords": [
+        "TaxDome",
+        "SurePrep 1040Scan"
+      ],
+      "name": "Accounting & Tax Software"
     },
     {
       "keywords": [
@@ -162,8 +188,8 @@
   "sections": [
     "templates",
     "profile",
-    "education",
     "work",
+    "education",
     "skills",
     "projects",
     "awards"
